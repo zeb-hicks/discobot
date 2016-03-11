@@ -27,6 +27,8 @@ function msgin(user, uID, cID, msg, e) {
 
 }
 
+// TEST
+
 // Setup function
 function init() {
   // Grab all the channels we're subscribed to from the discord connection

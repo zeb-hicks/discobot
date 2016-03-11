@@ -1,7 +1,7 @@
 for i in "$@"
 do
 case $i in
-    -m=*|--message=*)
+    -m|--message)
     MESSAGE="${i#*=}"
     shift
     ;;
