@@ -9,11 +9,7 @@ case $i in
     ;;
 esac
 done
-echo "Commit with message = ${MESSAGE}"
-if [[ -n $1 ]]; then
-    echo "Last line of file specified as non-opt/last argument:"
-    tail -1 $1
-fi
+echo "Commit with message: ${MESSAGE}"
 git add .
 git commit -a -m "${MESSAGE}"
 git push -u origin master

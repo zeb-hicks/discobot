@@ -18,7 +18,7 @@ dc.on('message', msgin);
 
 // Message received
 function msgin(user, uID, cID, msg, e) {
-  
+
   // Cancel if it was us who sent the message.
   if (e.d.author.id === dc.id) return;
   console.log('Got message... ' + channels[cID].name + ':' + e.d.author.username + ':' + msg);
@@ -26,8 +26,6 @@ function msgin(user, uID, cID, msg, e) {
   moduleHandler.messageIn({msg: msg, cID: cID, e: e});
 
 }
-
-// TEST
 
 // Setup function
 function init() {
@@ -39,7 +37,7 @@ function init() {
       channels[c] = dc.servers[sid].channels[c];
     }
   }
-  
+
   // Throw down all our message handlers.
   moduleHandler.addHandler(require('./handlers/trivia.js'));
   moduleHandler.addHandler(require('./handlers/commands.js'));
