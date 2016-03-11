@@ -1,0 +1,915 @@
+{
+	"questions": [
+		{
+			"question": "What nation was bounced from the Organisation of American States in 1962?",
+			"answer": "Cuba",
+			"regex": "Cuba",
+			"score": 100
+		}, {
+			"question": "What continent has the fewest flowering plants?",
+			"answer": "Antarctica",
+			"regex": "Antarctica",
+			"score": 100
+		}, {
+			"question": "What element begins with the letter “K”?",
+			"answer": "Krypton",
+			"regex": "Krypton",
+			"score": 100
+		}, {
+			"question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+			"answer": "India",
+			"regex": "India",
+			"score": 100
+		}, {
+			"question": "What national holiday in Mexico has picnickers munching chocolate coffins and sugar skulls?",
+			"answer": "The Day of the Dead",
+			"regex": "Day of the Dead",
+			"score": 100
+		}, {
+			"question": "What nation’s military attached dynamite packs to Dobermans before sending them into Palestinian guerrilla hideouts?",
+			"answer": "Israel",
+			"regex": "Israel",
+			"score": 100
+		}, {
+			"question": "What was the first planet to be discovered using the telescope, in 1781?",
+			"answer": "Uranus",
+			"regex": "Uranus",
+			"score": 100
+		}, {
+			"question": "How many days does a cat usually stay in heat?",
+			"answer": "Five",
+			"regex": "(5|Five)",
+			"score": 100
+		}, {
+			"question": "How many U.S. states border the Gulf of Mexico?",
+			"answer": "Five",
+			"regex": "(5|Five)",
+			"score": 100
+		}, {
+			"question": "What’s the ballet term for a 360-degree turn on one foot?",
+			"answer": "Pirouette",
+			"regex": "Pirouette",
+			"score": 100
+		}, {
+			"question": "What did blind bank robber David Worrell use as a weapon when trying to rob a London bank?",
+			"answer": "His cane",
+			"regex": "(His )?cane",
+			"score": 100
+		}, {
+			"question": "What Great Lake state has more shoreline than the entire U.S. Atlantic seaboard?",
+			"answer": "Michigan",
+			"regex": "Michigan",
+			"score": 100
+		}, {
+			"question": "What model appeared topless on the self-penned 1993 novel Pirate?",
+			"answer": "Fabio",
+			"regex": "Fabio",
+			"score": 100
+		}, {
+			"question": "If you had Lafite-Rothschild on your dinner table, what would it be?",
+			"answer": "Wine",
+			"regex": "Wine",
+			"score": 100
+		}, {
+			"question": "What is sushi traditionally wrapped in?",
+			"answer": "Seaweed (Or Nori)",
+			"regex": "(Seaweed|Nori)",
+			"score": 100
+		}, {
+			"question": "May Queen, Wisley Crab, Foxwhelps and Lane’s Prince Albert are all species of what?",
+			"answer": "Apples",
+			"regex": "Apples",
+			"score": 100
+		}, {
+			"question": "What is allspice alternatively known as?",
+			"answer": "Pimento",
+			"regex": "Pimento",
+			"score": 100
+		}, {
+			"question": "What colour is Absynth?",
+			"answer": "Green",
+			"regex": "Green",
+			"score": 100
+		}, {
+			"question": "What flavour is Cointreau?",
+			"answer": "Orange",
+			"regex": "Orange",
+			"score": 100
+		}, {
+			"question": "Which popular BBC series about old collectibles began in 1977, presented by Bruce Parker and Arthur Negus, and is still running to this day?",
+			"answer": "Antiques Roadshow",
+			"regex": "Antiques? Road ?show",
+			"score": 100
+		}, {
+			"question": "Which BBC music programme was broadcast weekly between 1964 and 2006?",
+			"answer": "Top of the Pops",
+			"regex": "Top of the Pops?",
+			"score": 100
+		}, {
+			"question": "Which country has more tractors per capita, Canada, Iceland or Japan?",
+			"answer": "Iceland",
+			"regex": "Iceland",
+			"score": 100
+		}, {
+			"question": "Who averaged one patent for every three weeks of his life?",
+			"answer": "Thomas Edison",
+			"regex": "(Thomas )?Edison",
+			"score": 100
+		}, {
+			"question": "Who, after anchoring off Hawaii in 1779, was mistaken for the god Lono?",
+			"answer": "Captain James Cook",
+			"regex": "Cook",
+			"score": 100
+		}, {
+			"question": "What continent is cut into two fairly equal halves by the Tropic of Capricorn?",
+			"answer": "Australia",
+			"regex": "Australia",
+			"score": 100
+		}, {
+			"question": "What explorer introduced pigs to North America?",
+			"answer": "Christopher Columbus",
+			"regex": "Columbus",
+			"score": 100
+		}, {
+			"question": "Who was billed as the “Killer of Custer” in Buffalo Bill’s Wild West Show?",
+			"answer": "Sitting Bull",
+			"regex": "Sitting Bull",
+			"score": 100
+		}, {
+			"question": "What railway linked Moscow and Irkutsk in 1900?",
+			"answer": "The Trans-Siberian Railway",
+			"regex": "Trans.*Siberian Rail",
+			"score": 100
+		}, {
+			"question": "What is the minimum number of musicians a band must have to be considered a “big band”?",
+			"answer": "Ten",
+			"regex": "(10|Ten)",
+			"score": 100
+		}, {
+			"question": "What’s a water moccasin often called, due to the white inside its mouth?",
+			"answer": "A cottonmouth",
+			"regex": "cotton ?mouth",
+			"score": 100
+		}, {
+			"question": "What F-word is defined in physics as a “nuclear reaction in which nuclei combine to form more massive nuclei”?",
+			"answer": "Fusion",
+			"regex": "Fusion",
+			"score": 100
+		}, {
+			"question": "What’s the largest and densest of the four rocky planets?",
+			"answer": "Earth",
+			"regex": "Earth",
+			"score": 100
+		}, {
+			"question": "What ingredient in fresh milk is eventually devoured by bacteria, causing the sour taste?",
+			"answer": "Lactose",
+			"regex": "Lactose",
+			"score": 100
+		}, {
+			"question": "Who offered insurance against an accidental death caused by a falling Sputnik?",
+			"answer": "Lloyds of London",
+			"regex": "Lloyds of London",
+			"score": 100
+		}, {
+			"question": "Which is the only American state to begin with the letter ‘p’?",
+			"answer": "Pennsylvania",
+			"regex": "Pennsylvania",
+			"score": 100
+		}, {
+			"question": "Name the world’s biggest island.",
+			"answer": "Greenland",
+			"regex": "Greenland",
+			"score": 100
+		}, {
+			"question": "What is the world’s longest river?",
+			"answer": "The Amazon River",
+			"regex": "Amazon",
+			"score": 100
+		}, {
+			"question": "Name the world’s largest ocean.",
+			"answer": "The Pacific Ocean",
+			"regex": "Pacific",
+			"score": 100
+		}, {
+			"question": "Where would you find the world’s most ancient forest?",
+			"answer": "Daintree Forest, north of Cairns, Australia.",
+			"regex": "Daintree",
+			"score": 100
+		}, {
+			"question": "What is the capital city of Spain?",
+			"answer": "Madrid",
+			"regex": "Madrid",
+			"score": 100
+		}, {
+			"question": "Which country is Prague in?",
+			"answer": "Czech Republic",
+			"regex": "Czech Republic",
+			"score": 100
+		}, {
+			"question": "With which sport is Michael Jordan associated?",
+			"answer": "Basketball",
+			"regex": "Basketball",
+			"score": 100
+		}, {
+			"question": "Churchill, Sherman and Panzer were all developed as types of what?",
+			"answer": "Tank",
+			"regex": "Tanks?",
+			"score": 100
+		}, {
+			"question": "Which record label did Michael Jackson first record on?",
+			"answer": "Motown",
+			"regex": "Motown",
+			"score": 100
+		}, {
+			"question": "Who recorded the album Dark Side Of the Moon?",
+			"answer": "Pink Floyd",
+			"regex": "Pink Floyd",
+			"score": 100
+		}, {
+			"question": "The song \"My Heart Will Go On\" came from which movie?",
+			"answer": "Titanic",
+			"regex": "Titanic",
+			"score": 100
+		}, {
+			"question": "With which spot is Cedric Pioline associated?",
+			"answer": "Tennis",
+			"regex": "Tennis",
+			"score": 100
+		}, {
+			"question": "What does the N stand for in NATO?",
+			"answer": "North",
+			"regex": "North",
+			"score": 100
+		}, {
+			"question": "Who played Rachel Green in Friends?",
+			"answer": "Jennifer Aniston",
+			"regex": "Jennifer Aniston",
+			"score": 100
+		}, {
+			"question": "Which instrument is Roberta Flack associated with?",
+			"answer": "Piano",
+			"regex": "Piano",
+			"score": 100
+		}, {
+			"question": "Who famously announced “heeeere’s Johnny” on the Johnny Carson show from the early 60s?",
+			"answer": "Ed McMahon",
+			"regex": "Ed McMahon",
+			"score": 100
+		}, {
+			"question": "Dramatist Brendan Behan came from which county?",
+			"answer": "Ireland",
+			"regex": "Ireland",
+			"score": 100
+		}, {
+			"question": "On which continent did the samba originate?",
+			"answer": "America",
+			"regex": "America",
+			"score": 100
+		}, {
+			"question": "Lord Mountbatten was murdered off the coast of which country?",
+			"answer": "Ireland",
+			"regex": "Ireland",
+			"score": 100
+		}, {
+			"question": "In which state was Isaac Hayes born?",
+			"answer": "Tennessee",
+			"regex": "Tennessee",
+			"score": 100
+		}, {
+			"question": "Black activist Steve Biko died in which country in the 70s?",
+			"answer": "South Africa",
+			"regex": "South Africa",
+			"score": 100
+		}, {
+			"question": "What is the postal abbreviation for Main?",
+			"answer": "ME",
+			"regex": "ME",
+			"score": 100
+		}, {
+			"question": "What was Aretha Franklin’s first No 1?",
+			"answer": "Respect",
+			"regex": "Respect",
+			"score": 100
+		}, {
+			"question": "What is the main color on the Chinese flag?",
+			"answer": "Red",
+			"regex": "Red",
+			"score": 100
+		}, {
+			"question": "Dick Francis novels revolve around which sport?",
+			"answer": "Horse racing",
+			"regex": "Horse racing",
+			"score": 100
+		}, {
+			"question": "What does the C stand for in LCD?",
+			"answer": "Crystal",
+			"regex": "Crystal",
+			"score": 100
+		}, {
+			"question": "In which country did Marilyn Monroe die?",
+			"answer": "United States",
+			"regex": "(USA|United States)",
+			"score": 100
+		}, {
+			"question": "Which Danny starred in Batman Returns?",
+			"answer": "Danny De Vito",
+			"regex": "De ?Vito",
+			"score": 100
+		}, {
+			"question": "In which state is Prince William Sound?",
+			"answer": "Alaska",
+			"regex": "Alaska",
+			"score": 100
+		}, {
+			"question": "What followed Exhale in the 1995 Whitney Houston hit?",
+			"answer": "Shoop Shoop",
+			"regex": "Shoop Shoop",
+			"score": 100
+		}, {
+			"question": "Which sitcom about an army hospital in Korea was transmitted in the UK without the canned laughter of the US version?",
+			"answer": "M*A*S*H.",
+			"regex": "M.*A.*S.*H",
+			"score": 100
+		}, {
+			"question": "The disastrous poison gas leak at Bhopal took place in which country?",
+			"answer": "India",
+			"regex": "India",
+			"score": 100
+		}, {
+			"question": "Which Sinatra song manages to rhyme a line with “shy way”?",
+			"answer": "My Way",
+			"regex": "My Way",
+			"score": 100
+		}, {
+			"question": "In which decade of the 20th century was Andie MacDowell born?",
+			"answer": "1950s",
+			"regex": "(1950s?|50s?)",
+			"score": 100
+		}, {
+			"question": "What sort of Nest was the subject of over 150 sitcoms?",
+			"answer": "Empty Nest",
+			"regex": "Empty",
+			"score": 100
+		}, {
+			"question": "What type of cargo was carried by the stricken vessel the Torrey Canyon?",
+			"answer": "Oil",
+			"regex": "Oil",
+			"score": 100
+		}, {
+			"question": "Playwright Arthur Miller was married to which famous blond actress?",
+			"answer": "Marilyn Monroe",
+			"regex": "Marilyn Monroe",
+			"score": 100
+		}, {
+			"question": "In football, where do the Broncos come from?",
+			"answer": "Denver",
+			"regex": "Denver",
+			"score": 100
+		}, {
+			"question": "Which actress married for the seventh time on Michael Jackson’s ranch in 1991?",
+			"answer": "Elizabeth Taylor",
+			"regex": "Elizabeth Taylor",
+			"score": 100
+		}, {
+			"question": "Hartsfield international airport is in which US state?",
+			"answer": "Georgia",
+			"regex": "Georgia",
+			"score": 100
+		}, {
+			"question": "What sort of Acres were the subject of a sitcom of over 170 episodes?",
+			"answer": "Green",
+			"regex": "Green",
+			"score": 100
+		}, {
+			"question": "On a computer keyboard what letter is between Q and E?",
+			"answer": "W",
+			"regex": "W",
+			"score": 100
+		}, {
+			"question": "In basketball, where do the Hawks come from?",
+			"answer": "Atlanta",
+			"regex": "Atlanta",
+			"score": 100
+		}, {
+			"question": "Which snooker player was nicknamed ‘Hurricane’?",
+			"answer": "Alex Higgins",
+			"regex": "Alex Higgins",
+			"score": 100
+		}, {
+			"question": "What type of animal is a ‘skink’?",
+			"answer": "A lizard",
+			"regex": "lizard",
+			"score": 100
+		}, {
+			"question": "Which Polish philoologist created the international language of ‘Esperanto’?",
+			"answer": "Lazarus Ludwig Zamenhof",
+			"regex": "Lazarus Ludwig Zamenhof",
+			"score": 100
+		}, {
+			"question": "Which planet of our solar system was the first to be discovered by telescope?",
+			"answer": "Uranus",
+			"regex": "Uranus",
+			"score": 100
+		}, {
+			"question": "Someone who suffers from oneirophobia is scared of what?",
+			"answer": "Dreams",
+			"regex": "Dreams",
+			"score": 100
+		}, {
+			"question": "Who was the Roman God of fruit?",
+			"answer": "Pomona (Her name derives from the Latin word ‘pomum’ meaning fruit)",
+			"regex": "Pomona",
+			"score": 100
+		}, {
+			"question": "What is the name of Oprah Winfrey’s production company?",
+			"answer": "Harpo (Harpo is Oprah spelt backwards)",
+			"regex": "Harpo",
+			"score": 100
+		}, {
+			"question": "According to Thomas Edison, ‘genius’ is one percent inspiration, and ninety-nine percent what?",
+			"answer": "Perspiration",
+			"regex": "Perspiration",
+			"score": 100
+		}, {
+			"question": "How is Stefani Joanne Angelina Germanotta better known in the music industry?",
+			"answer": "Lady Gaga",
+			"regex": "Lady Gaga",
+			"score": 100
+		}, {
+			"question": "The Twilight Saga of movies is based on novels by which author?",
+			"answer": "Stephenie Meyer",
+			"regex": "Stephenie Meyer",
+			"score": 100
+		}, {
+			"question": "Who is the current manager of Chelsea FC?",
+			"answer": "Carlo Ancelotti",
+			"regex": "Carlo Ancelotti",
+			"score": 100
+		}, {
+			"question": "Which Ancient Greek playwright is often credited with writing the play ‘Prometheus Bound’?",
+			"answer": "Aeschylus",
+			"regex": "Aeschylus",
+			"score": 100
+		}, {
+			"question": "Sandra Bullock won the Academy Award for Best Actress for her role in which 2009 movie?",
+			"answer": "The Blind Side",
+			"regex": "Blind Side",
+			"score": 100
+		}, {
+			"question": "Which mammal has the longest gestation period?",
+			"answer": "Elephant",
+			"regex": "Elephant",
+			"score": 100
+		}, {
+			"question": "What was the name of Dan Brown’s 2009 novel – a follow-up to the highly successful ‘The Da Vinci Code’?",
+			"answer": "The Lost Symbol",
+			"regex": "Lost Symbol",
+			"score": 100
+		}, {
+			"question": "How many squares are there on a standard chessboard?",
+			"answer": "64",
+			"regex": "64",
+			"score": 100
+		}, {
+			"question": "Which up and coming US singer has had recent hits with ‘Whatcha Say’ and ‘Ridin’ Solo’?",
+			"answer": "Jason Derulo",
+			"regex": "Jason Derulo",
+			"score": 100
+		}, {
+			"question": "Which of Shakespeare’s plays is the shortest in length?",
+			"answer": "The Comedy of Errors",
+			"regex": "Comedy of Errors",
+			"score": 100
+		}, {
+			"question": "Who sang the theme from the 70’s movie Love Story?",
+			"answer": "Andy Williams",
+			"regex": "Andy Williams",
+			"score": 100
+		}, {
+			"question": "Which talk-show hostess appeared in The Color Purple?",
+			"answer": "Oprah Winfrey",
+			"regex": "Oprah( Winfrey)?",
+			"score": 100
+		}, {
+			"question": "Which Barney was the subject of a sitcom of over 160 episodes?",
+			"answer": "Miller",
+			"regex": "Miller",
+			"score": 100
+		}, {
+			"question": "Which state is called the cornhusker State?",
+			"answer": "Nebraska",
+			"regex": "Nebraska",
+			"score": 100
+		}, {
+			"question": "In baseball, where do the Blue Jays come from?",
+			"answer": "Toronto",
+			"regex": "Toronto",
+			"score": 100
+		}, {
+			"question": "McCoy international airport is in which US State?",
+			"answer": "Florida",
+			"regex": "Florida",
+			"score": 100
+		}, {
+			"question": "Which Madeline became the first woman US Secretary of State?",
+			"answer": "Albright",
+			"regex": "Albright",
+			"score": 100
+		}, {
+			"question": "What is the shallowest ocean in the world?",
+			"answer": "The Arctic",
+			"regex": "Arctic",
+			"score": 100
+		}, {
+			"question": "The acronym NASA stands for what?",
+			"answer": "National Aeronautics and Space Administration",
+			"regex": "(National Aeronautics.+Space Administration)",
+			"score": 100
+		}, {
+			"question": "In ‘The Simpsons’, what is the name of the beer served in Springfield?",
+			"answer": "Duff",
+			"regex": "Duff",
+			"score": 100
+		}, {
+			"question": "The Gobi Desert is primarily situated in which country?",
+			"answer": "Mongolia",
+			"regex": "Mongolia",
+			"score": 100
+		}, {
+			"question": "Which was the first song by the Beatles to go to No. 1 in the US?",
+			"answer": "I Want To Hold Your Hand",
+			"regex": "I Want To Hold Your Hand",
+			"score": 100
+		}, {
+			"question": "In which country is the Simpson desert found?",
+			"answer": "Australia",
+			"regex": "Australia",
+			"score": 100
+		}, {
+			"question": "If a coffee bean is darker, will its caffeine content be higher or lower?",
+			"answer": "Lower",
+			"regex": "Lower",
+			"score": 100
+		}, {
+			"question": "Who played Facebook founder, Mark Zuckerberg in the 2010 movie, ‘The Social Network’?",
+			"answer": "Jesse Eisenberg",
+			"regex": "Jesse Eisenberg",
+			"score": 100
+		}, {
+			"question": "What is the name of the floating island in Jonathan Swift’s Gulliver’s Travels?",
+			"answer": "Laputa",
+			"regex": "Laputa",
+			"score": 100
+		}, {
+			"question": "Sangha’ monks and nuns are found in which religion?",
+			"answer": "Buddhism",
+			"regex": "Buddhism",
+			"score": 100
+		}, {
+			"question": "In which season do most burglaries take place?",
+			"answer": "Winter",
+			"regex": "Winter",
+			"score": 100
+		}, {
+			"question": "In the 1700s, what did some residents of London purchase to avoid going to hell?",
+			"answer": "Insurance",
+			"regex": "Insurance",
+			"score": 100
+		}, {
+			"question": "What is the only rock regularly eaten by humans?",
+			"answer": "salt",
+			"regex": "salt",
+			"score": 100
+		}, {
+			"question": "On what day of the week do the most auto accidents happen?",
+			"answer": "saturday",
+			"regex": "saturday",
+			"score": 100
+		}, {
+			"question": "What was featured in the first TV commercial advertizing a toy?",
+			"answer": "Mr.Potato head.",
+			"regex": "Mr.Potato head.",
+			"score": 100
+		}, {
+			"question": "What is the only state whose name is a single syllable?",
+			"answer": "Maine",
+			"regex": "Maine",
+			"score": 100
+		}, {
+			"question": "License plates in New Hampshire contain the motto “Live Free or Die.” Where are those license plates made?",
+			"answer": "prison",
+			"regex": "prison",
+			"score": 100
+		}, {
+			"question": "What do you get if you cross a goat with a sheep?",
+			"answer": "geep",
+			"regex": "geep",
+			"score": 100
+		}, {
+			"question": "There is only one kind of fruit that has its seeds on the outside. Name it.",
+			"answer": "Strawberry",
+			"regex": "Strawberry",
+			"score": 100
+		}, {
+			"question": "Superman works for the Daily Planet, but who works for the Daily Bugle?",
+			"answer": "Spider-man / Peter Parker",
+			"regex": "(Spider.?man|Peter Parker)",
+			"score": 100
+		}, {
+			"question": "Portugal has had six Kings with what first name?",
+			"answer": "Portugal had six King Johns",
+			"regex": "Portugal had six King Johns",
+			"score": 100
+		}, {
+			"question": "Clark Gable used to do it four or more times a day, but do what?",
+			"answer": "Clark Gable used to shower four times a day",
+			"regex": "shower",
+			"score": 100
+		}, {
+			"question": "What is America’s Wal-Mart trading name in the UK?",
+			"answer": "Asda",
+			"regex": "Asda",
+			"score": 100
+		}, {
+			"question": "Emerald is the birth stone for which month?",
+			"answer": "May",
+			"regex": "May",
+			"score": 100
+		}, {
+			"question": "What rock band started in Georgia, 1980, with Michael Stipe, Peter Buck, Mike Mills and Bill Berry?",
+			"answer": "R.E.M.",
+			"regex": "R.*E.*M",
+			"score": 100
+		}, {
+			"question": "Who is Homer Simpson’s brother?",
+			"answer": "Herb Powell",
+			"regex": "Herb(ie)?( Powell)?",
+			"score": 100
+		}, {
+			"question": "What is the largest fresh water lake in North America?",
+			"answer": "Lake Superior",
+			"regex": "Lake Superior",
+			"score": 100
+		}, {
+			"question": "Apart from drinks what used to be stored in pub cellars?",
+			"answer": "Corpses",
+			"regex": "Corpses",
+			"score": 100
+		}, {
+			"question": "What part of the body does H stand for in the charity AHA?",
+			"answer": "Heart",
+			"regex": "Heart",
+			"score": 100
+		}, {
+			"question": "In the 1994 movie, The Lion King, who narrated the voice of Mufasa, Simba’s father?",
+			"answer": "James Earl Jones",
+			"regex": "James Earl Jones",
+			"score": 100
+		}, {
+			"question": "What’s the least expensive and most popular fruit?",
+			"answer": "The banana",
+			"regex": "banana",
+			"score": 100
+		}, {
+			"question": "What kind of bird is often seen dashing along the roads and highways of the southern USA and Mexico… hence its name?",
+			"answer": "Roadrunner",
+			"regex": "Roadrunner",
+			"score": 100
+		}, {
+			"question": "Which part of a beetle’s body is a skeleton?",
+			"answer": "The outside",
+			"regex": "The outside",
+			"score": 100
+		}, {
+			"question": "What is the name used for the study of earthquakes?",
+			"answer": "Seismology",
+			"regex": "Seismology",
+			"score": 100
+		}, {
+			"question": "What are Black-eyed peas?",
+			"answer": "Beans",
+			"regex": "Beans",
+			"score": 100
+		}, {
+			"question": "In which English city is Buckingham palace located?",
+			"answer": "London",
+			"regex": "London",
+			"score": 100
+		}, {
+			"question": "What was the name of Daddy Warbucks’s Giant bodyguard who wore a turban in the Little Orphan Annie comic strip?",
+			"answer": "Punjab",
+			"regex": "Punjab",
+			"score": 100
+		}, {
+			"question": "By what other word are the Motion Picture Academy Awards also known?",
+			"answer": "Oscars",
+			"regex": "Oscars?",
+			"score": 100
+		}, {
+			"question": "Who did Running Bear love in the 50s hit song?",
+			"answer": "Little White Dove",
+			"regex": "Little White Dove",
+			"score": 100
+		}, {
+			"question": "The hard white material of elephant tusks is called what?",
+			"answer": "Ivory",
+			"regex": "Ivory",
+			"score": 100
+		}, {
+			"question": "What is the name of the device is added to a car’s exhaust system to reduce pollution?",
+			"answer": "Catalytic converter",
+			"regex": "Catalytic converter",
+			"score": 100
+		}, {
+			"question": "Which atmospheric gas is the most common?",
+			"answer": "Nitrogen",
+			"regex": "Nitrogen",
+			"score": 100
+		}, {
+			"question": "What was tested at “Bikini Atoll”, in the 1940s and the 1950s?",
+			"answer": "Atomic bomb",
+			"regex": "Atom.*bomb",
+			"score": 100
+		}, {
+			"question": "The iron and steel industry were developed in which city by Andrew Carnegie?",
+			"answer": "Pittsburgh",
+			"regex": "Pittsburgh",
+			"score": 100
+		}, {
+			"question": "The 1980 Winter Olympic held at which Lake?",
+			"answer": "Placid",
+			"regex": "Placid",
+			"score": 100
+		}, {
+			"question": "For which film did Robert de Niro win his first Oscar?",
+			"answer": "The Godfather Part II",
+			"regex": "Godfather Part (II|2)",
+			"score": 100
+		}, {
+			"question": "The hardest natural substance known is what?",
+			"answer": "Diamond",
+			"regex": "Diamond",
+			"score": 100
+		}, {
+			"question": "What is the biggest animal to have inhabited the Earth?",
+			"answer": "Blue Whale",
+			"regex": "Blue Whale",
+			"score": 100
+		}, {
+			"question": "In Connecticut, a pickle must do what to be legal?",
+			"answer": "Bounce",
+			"regex": "Bounce",
+			"score": 100
+		}, {
+			"question": "One third of Taiwanese funeral processions include what?",
+			"answer": "A stripper",
+			"regex": "stripper",
+			"score": 100
+		}, {
+			"question": "In Vermont, woman can’t wear what without written permission from their husbands ?",
+			"answer": "False Teeth",
+			"regex": "False Teeth",
+			"score": 100
+		}, {
+			"question": "What did people in the Middle Ages throw at the bride and groom?",
+			"answer": "Eggs",
+			"regex": "Eggs",
+			"score": 100
+		}, {
+			"question": "In Equatorial Guinea , what is it illegal to name your child?",
+			"answer": "Monica",
+			"regex": "Monica",
+			"score": 100
+		}, {
+			"question": "With what did the ancient Romans dye their hair?",
+			"answer": "Bird poop",
+			"regex": "Bird (poop?|feces|droppings|shit)",
+			"score": 100
+		}, {
+			"question": "In Ohio, by law, all pets have to carry what at night?",
+			"answer": "Lights on their tails",
+			"regex": "Lights on their tails",
+			"score": 100
+		}, {
+			"question": "Who said “I’ve watched a lot of baseball – on the radio”?",
+			"answer": "Gerald Ford",
+			"regex": "Gerald Ford",
+			"score": 100
+		}, {
+			"question": "In Michigan it is illegal to chain what to a fire hydrant?",
+			"answer": "An Alligator",
+			"regex": "An Alligator",
+			"score": 100
+		}, {
+			"question": "Where are 40,000 Americans injured each year?",
+			"answer": "In the toilet",
+			"regex": "In the toilet",
+			"score": 100
+		}, {
+			"question": "In 1987 the Jockey Club disqualified a horse that had eaten what?",
+			"answer": "A mars Bar",
+			"regex": "mars ?Bar",
+			"score": 100
+		}, {
+			"question": "In Oklahoma City its illegal for a prisoner to wear what?",
+			"answer": "Pink Bikini Underwear",
+			"regex": "Pink Bikini (Underwear|Bottom)",
+			"score": 100
+		}, {
+			"question": "In Massachusetts, what is it illegal to have in the bathroom?",
+			"answer": "A light switch",
+			"regex": "light switch",
+			"score": 100
+		}, {
+			"question": "It is illegal in Alaska to look at a moose from where?",
+			"answer": "The window of any aircraft",
+			"regex": "window of any aircraft",
+			"score": 100
+		}, {
+			"question": "Mr. Cat Poop was the Chinese translation of what Jack Nicholson movie?",
+			"answer": "As Good as it Gets",
+			"regex": "As Good as it Gets",
+			"score": 100
+		}, {
+			"question": "How do members of the Walibri tribe in central Australia greet each other?",
+			"answer": "By shaking penises",
+			"regex": "shaking penises",
+			"score": 100
+		}, {
+			"question": "In the city of some areas have private flush toilets for who / what?",
+			"answer": "Dogs",
+			"regex": "Dogs",
+			"score": 100
+		}, {
+			"question": "In which Tennessee city it is illegal to lasso fish?",
+			"answer": "Knoxville",
+			"regex": "Knoxville",
+			"score": 100
+		}, {
+			"question": "What popular drink did a Dutch medical professor produce in his laboratory while trying to come up with a blood cleanser that could be sold in drugstores?",
+			"answer": "Gin",
+			"regex": "Gin",
+			"score": 100
+		}, {
+			"question": "What beverage did Pope Clement VIII officially recognize as a Christian drink in an edict issued in 1592?",
+			"answer": "Coffee, which had been introduced to Europe by Arab traders and was considered by many Roman Catholics to be the wine of infidels.",
+			"regex": "Coffee",
+			"score": 100
+		}, {
+			"question": "What elaborate confection was inspired by St. Bride’s Church in London?",
+			"answer": "The tiered wedding cake–which was based on the tiered spire of the church, designed by Sir Christopher Wren.",
+			"regex": "wedding.+cake",
+			"score": 100
+		}, {
+			"question": "When Birdseye introduced the first frozen food in 1930, what did the company call it?",
+			"answer": "Frosted food",
+			"regex": "Frosted food",
+			"score": 100
+		}, {
+			"question": "What American city produces most of the egg rolls sold in grocery stores in the United States?",
+			"answer": "Houston Texas",
+			"regex": "Houston",
+			"score": 100
+		}, {
+			"question": "A goat sucker is what type of creature?",
+			"answer": "A Bird",
+			"regex": "Bird",
+			"score": 100
+		}, {
+			"question": "What is another name for the bird Didus Ineptus ?",
+			"answer": "The Dodo",
+			"regex": "Dodo",
+			"score": 100
+		}, {
+			"question": "What is a camels dude?",
+			"answer": "Penis",
+			"regex": "Penis",
+			"score": 100
+		}, {
+			"question": "What do you call a group of Donkeys?",
+			"answer": "A pace",
+			"regex": "pace",
+			"score": 100
+		}, {
+			"question": "What was the name of Dr Dolittle’s Parrot?",
+			"answer": "Polynesia",
+			"regex": "Polynesia",
+			"score": 100
+		}, {
+			"question": "Laika was the name of the first ever dog to do what?",
+			"answer": "Get sent into space",
+			"regex": "(space|astronaut)",
+			"score": 100
+		}, {
+			"question": "Karakul, Texel, and Romney Marsh are different kinds of what?",
+			"answer": "Sheep",
+			"regex": "Sheep",
+			"score": 100
+		}, {
+			"question": "A giraffes tongue is what color?",
+			"answer": "Black",
+			"regex": "Black",
+			"score": 100
+		}
+	]
+}
