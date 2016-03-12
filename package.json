@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "chat-example",
   "version": "0.0.0",
   "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
@@ -8,15 +7,6 @@
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
     "async": "~0.2.8",
-=======
-  "name": "ATO Tycoon",
-  "version": "0.0.1",
-  "description": "ATO Tycoon Game",
-  "main": "server.js",
-  "repository": "",
-  "author": "Zeb Hicks <Nimphious@gmail.com>",
-  "dependencies": {
->>>>>>> 57ef1aa2b5038348f0175c303b9eadc16245509c
     "express": "~3.2.4",
     "socket.io": "~0.9.14"
   }
