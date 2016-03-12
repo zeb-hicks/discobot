@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -25,3 +26,8 @@ Once the server is running, open the project in the shape of 'https://projectnam
 # discobot
 Discord Bot
 >>>>>>> d26e8c6f7fc8b137be00482b0b7378c0d1bacfcb
+=======
+## ATO Tycoon
+
+https://atotycoon-nimphious.c9users.io/
+>>>>>>> 57ef1aa2b5038348f0175c303b9eadc16245509c
