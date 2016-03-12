@@ -1,4 +1,4 @@
-echo "Commit with message: $@"
+echo "Commit with message: \"$@\""
 git add .
-git commit -a -m "$@"
+git commit -am "\"$@\""
 git push -u origin master
