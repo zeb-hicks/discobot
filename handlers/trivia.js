@@ -5,7 +5,7 @@ var T = {
   qarr: qdata.questions,
   state: 'stopped',
   round: 0,
-  rounds: 10,
+  rounds: 1,
   time: 30,
   roundLength: 30,
   scores: {},
@@ -14,8 +14,18 @@ var T = {
 }
 
 // Message shorthand function for tersity.
-function msg(m) {
-  dc.sendMessage({ to: T.channel, message: m });
+function msg(message, cb) {
+  if (message instanceof Array) {
+    dc.sendMessage({ to: T.channel, message: message.shift()}, function() {
+      if (message.length > 0) {
+        msg(message, cb);
+      } else {
+        if (cb !== undefined) cb();
+      }
+    });
+  } else {
+    dc.sendMessage({ to: T.channel, message: arguments[0] }, cb);
+  }
 }
 
 function triviaHandler(arg, next) {
@@ -24,10 +34,11 @@ function triviaHandler(arg, next) {
     switch (T.state) {
       case 'stopped':
         T.channel = arg.cID;
-        msg('Trivia go!');
-        T.round = -1;
-        loadQuestions();
-        nextRound();
+        msg('Trivia go!', function() {
+          T.round = -1;
+          loadQuestions();
+          nextRound();
+        });
       default:
         if (arg.msg.indexOf('stop') !== -1) {
           T.state = 'stopped';
@@ -68,7 +79,6 @@ function nextRound() {
 }
 
 function gameEnd() {
-  msg('**Final results:**');
   var t = [];
   for (var a in T.scores) {
     if (a !== 'length') {
@@ -81,7 +91,7 @@ function gameEnd() {
   for (var i = 0; i < t.length; i++) {
     t[i] = ['First','Second','Third','Fourth','Fifth','Sixth','Seventh','Eighth','Ninth','Tenth','Eleventh','Twelfth'][i] + ' place with ' + t[i];
   }
-  msg(t.join('\n'));
+  msg(['**Final results:**', t.join('\n')]);
 }
 
 function loadQuestions() {
